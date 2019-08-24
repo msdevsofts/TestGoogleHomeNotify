@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GhTestHttp", "GhTestHttp\GhTestHttp.csproj", "{AB9B4ED4-F82D-4359-9D87-51BD56533FAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB9B4ED4-F82D-4359-9D87-51BD56533FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB9B4ED4-F82D-4359-9D87-51BD56533FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB9B4ED4-F82D-4359-9D87-51BD56533FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB9B4ED4-F82D-4359-9D87-51BD56533FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E88925A-01EF-48B9-85AD-66E9104B97BE}
+	EndGlobalSection
+EndGlobal
